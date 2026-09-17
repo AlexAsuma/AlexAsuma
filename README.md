@@ -80,7 +80,7 @@ CS undergrad focused on defensive cybersecurity. I write low-level C/C++, build 
 ### 📈 Contribution Graph
 
 <p align="center">
-  ![Pac-Man contribution graph](https://raw.githubusercontent.com/AlexAsuma/AlexAsuma/output/pacman.svg)
+  <img width="100%" src="https://raw.githubusercontent.com/AlexAsuma/AlexAsuma/output/pacman.svg" alt="pacman contribution graph" />
 </p>
 
 ### 💭 Dev Quote
